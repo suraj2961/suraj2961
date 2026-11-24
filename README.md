@@ -1,91 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3e2f,100:c9b99a&height=170&section=header&text=Suraj&fontColor=f5f0e6&fontSize=54&fontAlignY=38&desc=MCA%20Student%20%C2%B7%20Software%20Developer&descAlignY=60&descSize=17" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2e22,50:3d5a45,100:c9b99a&height=220&section=header&text=Hi,%20I'm%20Suraj&fontColor=f5f0e6&fontSize=52&fontAlignY=36&animation=fadeIn&desc=MCA%20Student%20%C2%B7%20Software%20Developer%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=17" width="100%" alt="header" />
 
-*Building thoughtful software at the intersection of data, agriculture and social impact.*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=3D5A45&center=true&vCenter=true&width=620&lines=Building+software+that+solves+real+problems;Agri-tech+%C2%B7+Data+%C2%B7+Full-Stack+Development;Turning+ideas+into+clean%2C+working+products;Open+to+internships+and+SDE+opportunities" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+![Location](https://img.shields.io/badge/📍_Karnataka,_India-1f2e22?style=for-the-badge)
+![Education](https://img.shields.io/badge/🎓_MCA_·_NMAMIT_Nitte-3d5a45?style=for-the-badge)
+![Status](https://img.shields.io/badge/💼_Open_to_Work-8a7a5c?style=for-the-badge)
+
+<img src="https://komarev.com/ghpvc/?username=suraj2961&label=Profile+views&color=3d5a45&style=flat-square" alt="views" />
+
+</div>
 
 <br/>
 
-![Location](https://img.shields.io/badge/Karnataka,_India-2d3e2f?style=flat-square&logo=googlemaps&logoColor=f5f0e6)
-![Status](https://img.shields.io/badge/Open_to-Internships_&_SDE_roles-8a7a5c?style=flat-square)
-![Education](https://img.shields.io/badge/MCA-NMAMIT,_Nitte-2d3e2f?style=flat-square)
+## 🌿 About Me
 
-</div>
+<table>
+<tr>
+<td width="62%" valign="top">
 
----
+I'm an **MCA student** at NMAM Institute of Technology, Nitte, with a **BCA** background from Karkala. I like turning real-world problems, especially in agriculture and resource management, into clean, working software.
 
-## About
+```text
+🌾  Passionate about agri-tech and social impact
+📊  Drawn to data, analytics and problem solving
+⚙️  Building full-stack apps with Java, Flutter & React
+🤖  Exploring applied machine learning
+📫  Seeking software engineering roles & internships
+```
 
-I'm an MCA student at NMAM Institute of Technology, Nitte, with a BCA background from Karkala. I enjoy turning real-world problems, especially in agriculture and resource management, into clean, working software.
+</td>
+<td width="38%" valign="top" align="center">
 
-- 🌾 Interested in agri-tech and applications that create social impact
-- 📊 Drawn to data, analytics and problem solving
-- 🌱 Currently sharpening my full-stack and applied ML skills
-- 📫 Looking for software engineering roles and internships
+<img src="https://github-readme-stats.vercel.app/api?username=suraj2961&show_icons=true&hide_border=true&bg_color=00000000&title_color=3d5a45&text_color=8a7a5c&icon_color=3d5a45&rank_icon=github" alt="stats" width="100%" />
 
----
+</td>
+</tr>
+</table>
 
-## Tech Stack
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-2d3e2f?style=for-the-badge&logo=openjdk&logoColor=f5f0e6)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-2d3e2f?style=for-the-badge&logo=springboot&logoColor=f5f0e6)
-![Python](https://img.shields.io/badge/Python-2d3e2f?style=for-the-badge&logo=python&logoColor=f5f0e6)
-![React](https://img.shields.io/badge/React-2d3e2f?style=for-the-badge&logo=react&logoColor=f5f0e6)
-![Flutter](https://img.shields.io/badge/Flutter-2d3e2f?style=for-the-badge&logo=flutter&logoColor=f5f0e6)
-![Node.js](https://img.shields.io/badge/Node.js-2d3e2f?style=for-the-badge&logo=nodedotjs&logoColor=f5f0e6)
-![MongoDB](https://img.shields.io/badge/MongoDB-2d3e2f?style=for-the-badge&logo=mongodb&logoColor=f5f0e6)
-![MySQL](https://img.shields.io/badge/MySQL-2d3e2f?style=for-the-badge&logo=mysql&logoColor=f5f0e6)
-![Git](https://img.shields.io/badge/Git-2d3e2f?style=for-the-badge&logo=git&logoColor=f5f0e6)
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,flutter,dart,nodejs,express,mongodb,mysql&theme=light" alt="skills" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,html,css,js&theme=light" alt="tools" />
 
 </div>
 
----
+<br/>
 
-## Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌾 FarmerAssist
-**Agricultural market intelligence and sell advisory system**
-A full-stack app for Karnataka farmers combining mandi prices, weather, government schemes and farming news. Sell recommendations use linear regression, moving averages and perishability calculations.
-`Flutter` `Dart` `Java` `Spring Boot` `REST APIs`
+*Agricultural market intelligence & sell advisory*
+
+A full-stack app for Karnataka farmers combining mandi prices, weather, government schemes and farming news. Sell recommendations use regression, moving averages and perishability calculations.
+
+`Flutter` · `Dart` · `Java` · `Spring Boot` · `REST APIs`
+
+</td>
+<td width="50%" valign="top">
 
 ### 💧 Groundwater Stress Forecasting
-**Research project on Karnataka groundwater**
-An ML pipeline forecasting groundwater stress for six districts from satellite and climate data. Random Forest, XGBoost and an ensemble were compared with walk-forward validation, with an interactive dashboard and a written research paper.
-`Python` `XGBoost` `Google Earth Engine` `GRACE` `ERA5`
+*Research project · Karnataka*
+
+An ML pipeline forecasting groundwater stress for six districts from satellite and climate data. Compared Random Forest, XGBoost and an ensemble, with an interactive dashboard and a research paper.
+
+`Python` · `XGBoost` · `Earth Engine` · `GRACE` · `ERA5`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📄 Resume Analyser
-**ATS-style resume evaluator**
+*ATS-style resume evaluator*
+
 Reads PDF and DOCX resumes, scores them against a chosen job role, highlights missing skills and gives feedback using a local AI model (DeepSeek via Ollama).
-`Java` `Spring Boot` `React` `MySQL` `Ollama`
 
-### 🏍️ Bike Showroom Management System
-**Full-stack MERN application** for managing showroom inventory and operations.
-`React` `Node.js` `Express` `MongoDB`
+`Java` · `Spring Boot` · `React` · `MySQL` · `Ollama`
 
----
+</td>
+<td width="50%" valign="top">
 
-## GitHub Stats
+### 🏍️ Bike Showroom Management
+*Full-stack MERN application*
 
-<div align="center">
+Manages showroom inventory and operations with a clean React interface backed by a Node and Express API.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=f5f0e6&title_color=2d3e2f&text_color=4a4a3a&icon_color=8a7a5c" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=f5f0e6&title_color=2d3e2f&text_color=4a4a3a" alt="top languages" />
+`React` · `Node.js` · `Express` · `MongoDB`
 
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d3e2f?style=for-the-badge&logo=linkedin&logoColor=f5f0e6)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-8a7a5c?style=for-the-badge&logo=gmail&logoColor=f5f0e6)](mailto:YOUR_EMAIL)
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9b99a,100:2d3e2f&height=100&section=footer" width="100%" alt="footer" />
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj2961&hide_border=true&background=00000000&ring=3d5a45&fire=8a7a5c&currStreakLabel=3d5a45&sideLabels=3d5a45&currStreakNum=8a7a5c&sideNums=8a7a5c&dates=8a7a5c" alt="streak" />
+
+<br/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj2961&layout=compact&hide_border=true&bg_color=00000000&title_color=3d5a45&text_color=8a7a5c" alt="top languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj2961&bg_color=00000000&color=3d5a45&line=8a7a5c&point=3d5a45&area=true&hide_border=true" alt="activity graph" width="95%" />
+
+</div>
+
+<br/>
+
+## 💬 Currently
+
+- 🔭 Building and polishing projects in **agri-tech** and **applied ML**
+- 🌱 Strengthening data structures, system design and full-stack skills
+- 🤝 Open to collaborating on projects with social impact
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2e22?style=for-the-badge&logo=linkedin&logoColor=f5f0e6)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-8a7a5c?style=for-the-badge&logo=gmail&logoColor=f5f0e6)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-3d5a45?style=for-the-badge&logo=github&logoColor=f5f0e6)](https://github.com/suraj2961)
+
+<br/>
+
+*“Make it work, make it right, make it beautiful.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9b99a,50:3d5a45,100:1f2e22&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
